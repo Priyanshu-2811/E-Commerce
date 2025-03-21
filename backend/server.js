@@ -23,5 +23,3 @@ app.listen(PORT, '0.0.0.0', () => {
   console.log('Server is running on http://localhost:'+PORT);
   connectDB();
 });
-
-//github-auth token: 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
